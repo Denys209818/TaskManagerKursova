@@ -1,0 +1,11 @@
+﻿<Application x:Class="TaskManagerUI.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:TaskManagerUI" xmlns:system="clr-namespace:System;assembly=mscorlib"
+             xmlns:models="clr-namespace:TaskManagerUI.Models" Startup="Application_Startup">
+    <Application.Resources>
+        <ObjectDataProvider x:Key="taskData" ObjectType="{x:Type models:BoardModel}"/>
+        <ObjectDataProvider x:Key="dataTasks" ObjectInstance="{StaticResource taskData}" MethodName="GetTasks"/>
+        
+    </Application.Resources>
+</Application>

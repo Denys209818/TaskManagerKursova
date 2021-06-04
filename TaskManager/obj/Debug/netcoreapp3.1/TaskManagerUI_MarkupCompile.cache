@@ -1,0 +1,20 @@
+﻿TaskManagerUI
+
+
+winexe
+C#
+.cs
+C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\TaskManager\obj\Debug\netcoreapp3.1\
+TaskManagerUI
+none
+false
+TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
+C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\TaskManager\App.xaml
+4-1269481606
+1716403132
+9-609554088
+204130291930
+AddTaskWindow.xaml;BoardWindow.xaml;MainWindow.xaml;UpdateTaskWindow.xaml;
+
+False
+
