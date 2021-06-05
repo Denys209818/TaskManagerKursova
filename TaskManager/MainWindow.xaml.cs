@@ -95,17 +95,17 @@ namespace TaskManagerUI
             });
         }
 
-        private void btnCreate_Click(object sender, RoutedEventArgs e)
+        private async void btnCreate_Click(object sender, RoutedEventArgs e)
         {
             this.Visibility = Visibility.Hidden;
 
             string code = System.IO.Path.GetRandomFileName().ToString();
 
             BoardService.CreateBoard(code);
-
-            BoardWindow window = new BoardWindow(new BoardModel
-            {
-                BoardKey = code,
+            var appBoard =  await BoardService.GetBoard(code);
+            BoardWindow window = new BoardWindow(new BoardModel { 
+                Id = appBoard.Id,
+                BoardKey = appBoard.BoardKey,
                 tasks = new System.Collections.ObjectModel.ObservableCollection<Apps.Lib.Models.TaskModel>()
             });
 

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3gZkgFsGdzjRtuBqyKeIy6pyBmmbwGjo9f5LXEWr+rywCBjdHQCH+jE0KWWbzg3Dmr8x201ubMHVcwiBUS+OtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Denis\\Desktop\\.NET FrameWork Kursova\\DotNetFrameworkKursova\\ChatServerCore\\ChatServerCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Denis\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

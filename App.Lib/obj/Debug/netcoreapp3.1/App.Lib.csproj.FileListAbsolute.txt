@@ -1,9 +1,9 @@
 C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\App.Lib\bin\Debug\netcoreapp3.1\App.Lib.deps.json
 C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\App.Lib\bin\Debug\netcoreapp3.1\App.Lib.dll
 C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\App.Lib\bin\Debug\netcoreapp3.1\App.Lib.pdb
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\App.Lib\obj\Debug\netcoreapp3.1\App.Lib.csprojAssemblyReference.cache
 C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\App.Lib\obj\Debug\netcoreapp3.1\App.Lib.AssemblyInfoInputs.cache
 C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\App.Lib\obj\Debug\netcoreapp3.1\App.Lib.AssemblyInfo.cs
 C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\App.Lib\obj\Debug\netcoreapp3.1\App.Lib.csproj.CoreCompileInputs.cache
 C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\App.Lib\obj\Debug\netcoreapp3.1\App.Lib.dll
 C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\App.Lib\obj\Debug\netcoreapp3.1\App.Lib.pdb
+C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\App.Lib\obj\Debug\netcoreapp3.1\App.Lib.csprojAssemblyReference.cache

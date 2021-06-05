@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebServiceForDbOperations",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskManagerUI", "TaskManager\TaskManagerUI.csproj", "{56086210-44AE-462B-BD37-60752989B5E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Lib", "App.Lib\App.Lib.csproj", "{2928EA9C-07AB-4A2A-952B-A0D525499BA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App.Lib", "App.Lib\App.Lib.csproj", "{2928EA9C-07AB-4A2A-952B-A0D525499BA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatServerCore", "ChatServerCore\ChatServerCore.csproj", "{29641607-21FD-440E-AFAE-3517347F5145}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{2928EA9C-07AB-4A2A-952B-A0D525499BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2928EA9C-07AB-4A2A-952B-A0D525499BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2928EA9C-07AB-4A2A-952B-A0D525499BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29641607-21FD-440E-AFAE-3517347F5145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29641607-21FD-440E-AFAE-3517347F5145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29641607-21FD-440E-AFAE-3517347F5145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29641607-21FD-440E-AFAE-3517347F5145}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

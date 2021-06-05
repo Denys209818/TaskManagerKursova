@@ -21,7 +21,7 @@ namespace TaskManagerUI
     public partial class AddTaskWindow : Window
     {
         public BoardModel _model { get; set; }
-        public Apps.Lib.Models.TaskModel taskModel { get; set; }
+        public Apps.Lib.Models.TaskModel taskModel { get; set; } = null;
         public AddTaskWindow(BoardModel model)
         {
             InitializeComponent();
