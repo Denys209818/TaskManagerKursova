@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\TaskManager\obj\Debug\netcoreapp3.1\
+C:\Users\Denis\Desktop\project\TaskManagerKursova\TaskManager\obj\Debug\netcoreapp3.1\
 TaskManagerUI
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\TaskManager\App.xaml
+C:\Users\Denis\Desktop\project\TaskManagerKursova\TaskManager\App.xaml
 4-1269481606
 1716403132
 11-753593656
-204130291930
+204-1720464943
 AddTaskWindow.xaml;BoardWindow.xaml;MainWindow.xaml;UpdateTaskWindow.xaml;
 
-True
+False
 

@@ -72,11 +72,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Denis\\Desktop\\.NET FrameWork Kursova\\DotNetFrameworkKursova\\ChatServerCore\\ChatServerCore.csproj",
+      "projectUniqueName": "C:\\Users\\Denis\\Desktop\\project\\TaskManagerKursova\\ChatServerCore\\ChatServerCore.csproj",
       "projectName": "ChatServerCore",
-      "projectPath": "C:\\Users\\Denis\\Desktop\\.NET FrameWork Kursova\\DotNetFrameworkKursova\\ChatServerCore\\ChatServerCore.csproj",
+      "projectPath": "C:\\Users\\Denis\\Desktop\\project\\TaskManagerKursova\\ChatServerCore\\ChatServerCore.csproj",
       "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Denis\\Desktop\\.NET FrameWork Kursova\\DotNetFrameworkKursova\\ChatServerCore\\obj\\",
+      "outputPath": "C:\\Users\\Denis\\Desktop\\project\\TaskManagerKursova\\ChatServerCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -97,8 +97,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Denis\\Desktop\\.NET FrameWork Kursova\\DotNetFrameworkKursova\\App.Lib\\App.Lib.csproj": {
-              "projectPath": "C:\\Users\\Denis\\Desktop\\.NET FrameWork Kursova\\DotNetFrameworkKursova\\App.Lib\\App.Lib.csproj"
+            "C:\\Users\\Denis\\Desktop\\project\\TaskManagerKursova\\App.Lib\\App.Lib.csproj": {
+              "projectPath": "C:\\Users\\Denis\\Desktop\\project\\TaskManagerKursova\\App.Lib\\App.Lib.csproj"
             }
           }
         }

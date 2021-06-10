@@ -77,7 +77,7 @@ namespace TaskManagerUI {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/TaskManagerUI;component/updatetaskwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/TaskManagerUI;V1.0.0.0;component/updatetaskwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\UpdateTaskWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

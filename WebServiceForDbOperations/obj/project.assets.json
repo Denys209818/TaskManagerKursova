@@ -1103,11 +1103,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Denis\\Desktop\\.NET FrameWork Kursova\\DotNetFrameworkKursova\\WebServiceForDbOperations\\WebServiceForDbOperations.csproj",
+      "projectUniqueName": "C:\\Users\\Denis\\Desktop\\project\\TaskManagerKursova\\WebServiceForDbOperations\\WebServiceForDbOperations.csproj",
       "projectName": "WebServiceForDbOperations",
-      "projectPath": "C:\\Users\\Denis\\Desktop\\.NET FrameWork Kursova\\DotNetFrameworkKursova\\WebServiceForDbOperations\\WebServiceForDbOperations.csproj",
+      "projectPath": "C:\\Users\\Denis\\Desktop\\project\\TaskManagerKursova\\WebServiceForDbOperations\\WebServiceForDbOperations.csproj",
       "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Denis\\Desktop\\.NET FrameWork Kursova\\DotNetFrameworkKursova\\WebServiceForDbOperations\\obj\\",
+      "outputPath": "C:\\Users\\Denis\\Desktop\\project\\TaskManagerKursova\\WebServiceForDbOperations\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -1128,8 +1128,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Denis\\Desktop\\.NET FrameWork Kursova\\DotNetFrameworkKursova\\App.Lib\\App.Lib.csproj": {
-              "projectPath": "C:\\Users\\Denis\\Desktop\\.NET FrameWork Kursova\\DotNetFrameworkKursova\\App.Lib\\App.Lib.csproj"
+            "C:\\Users\\Denis\\Desktop\\project\\TaskManagerKursova\\App.Lib\\App.Lib.csproj": {
+              "projectPath": "C:\\Users\\Denis\\Desktop\\project\\TaskManagerKursova\\App.Lib\\App.Lib.csproj"
             }
           }
         }

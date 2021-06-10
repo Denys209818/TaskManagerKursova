@@ -32,7 +32,7 @@ namespace WebServiceForDbOperations
             services.AddControllers();
             services.AddSwaggerGen();
             services.AddDbContext<DataContext>((DbContextOptionsBuilder builder) => {
-                builder.UseNpgsql("Server=localhost;Port=5432;Database=denysdb;User Id=postgres;Password=1;");
+                builder.UseNpgsql("Server=91.238.103.109;Port=5876;Database=dbdenys;User Id=denys;Password=qwerty;");
             });
         }
 

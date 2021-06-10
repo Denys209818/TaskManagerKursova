@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Denis\\Desktop\\.NET FrameWork Kursova\\DotNetFrameworkKursova\\TaskManager\\TaskManagerUI.csproj": {}
+    "C:\\Users\\Denis\\Desktop\\project\\TaskManagerKursova\\TaskManager\\TaskManagerUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Denis\\Desktop\\.NET FrameWork Kursova\\DotNetFrameworkKursova\\App.Lib\\App.Lib.csproj": {
+    "C:\\Users\\Denis\\Desktop\\project\\TaskManagerKursova\\App.Lib\\App.Lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Denis\\Desktop\\.NET FrameWork Kursova\\DotNetFrameworkKursova\\App.Lib\\App.Lib.csproj",
+        "projectUniqueName": "C:\\Users\\Denis\\Desktop\\project\\TaskManagerKursova\\App.Lib\\App.Lib.csproj",
         "projectName": "App.Lib",
-        "projectPath": "C:\\Users\\Denis\\Desktop\\.NET FrameWork Kursova\\DotNetFrameworkKursova\\App.Lib\\App.Lib.csproj",
+        "projectPath": "C:\\Users\\Denis\\Desktop\\project\\TaskManagerKursova\\App.Lib\\App.Lib.csproj",
         "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Denis\\Desktop\\.NET FrameWork Kursova\\DotNetFrameworkKursova\\App.Lib\\obj\\",
+        "outputPath": "C:\\Users\\Denis\\Desktop\\project\\TaskManagerKursova\\App.Lib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\Denis\\Desktop\\.NET FrameWork Kursova\\DotNetFrameworkKursova\\TaskManager\\TaskManagerUI.csproj": {
+    "C:\\Users\\Denis\\Desktop\\project\\TaskManagerKursova\\TaskManager\\TaskManagerUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Denis\\Desktop\\.NET FrameWork Kursova\\DotNetFrameworkKursova\\TaskManager\\TaskManagerUI.csproj",
+        "projectUniqueName": "C:\\Users\\Denis\\Desktop\\project\\TaskManagerKursova\\TaskManager\\TaskManagerUI.csproj",
         "projectName": "TaskManagerUI",
-        "projectPath": "C:\\Users\\Denis\\Desktop\\.NET FrameWork Kursova\\DotNetFrameworkKursova\\TaskManager\\TaskManagerUI.csproj",
+        "projectPath": "C:\\Users\\Denis\\Desktop\\project\\TaskManagerKursova\\TaskManager\\TaskManagerUI.csproj",
         "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Denis\\Desktop\\.NET FrameWork Kursova\\DotNetFrameworkKursova\\TaskManager\\obj\\",
+        "outputPath": "C:\\Users\\Denis\\Desktop\\project\\TaskManagerKursova\\TaskManager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -96,8 +96,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Denis\\Desktop\\.NET FrameWork Kursova\\DotNetFrameworkKursova\\App.Lib\\App.Lib.csproj": {
-                "projectPath": "C:\\Users\\Denis\\Desktop\\.NET FrameWork Kursova\\DotNetFrameworkKursova\\App.Lib\\App.Lib.csproj"
+              "C:\\Users\\Denis\\Desktop\\project\\TaskManagerKursova\\App.Lib\\App.Lib.csproj": {
+                "projectPath": "C:\\Users\\Denis\\Desktop\\project\\TaskManagerKursova\\App.Lib\\App.Lib.csproj"
               }
             }
           }

@@ -54,11 +54,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Denis\\Desktop\\.NET FrameWork Kursova\\DotNetFrameworkKursova\\App.Lib\\App.Lib.csproj",
+      "projectUniqueName": "C:\\Users\\Denis\\Desktop\\project\\TaskManagerKursova\\App.Lib\\App.Lib.csproj",
       "projectName": "App.Lib",
-      "projectPath": "C:\\Users\\Denis\\Desktop\\.NET FrameWork Kursova\\DotNetFrameworkKursova\\App.Lib\\App.Lib.csproj",
+      "projectPath": "C:\\Users\\Denis\\Desktop\\project\\TaskManagerKursova\\App.Lib\\App.Lib.csproj",
       "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Denis\\Desktop\\.NET FrameWork Kursova\\DotNetFrameworkKursova\\App.Lib\\obj\\",
+      "outputPath": "C:\\Users\\Denis\\Desktop\\project\\TaskManagerKursova\\App.Lib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

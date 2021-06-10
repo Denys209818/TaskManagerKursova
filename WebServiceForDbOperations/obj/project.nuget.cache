@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a9k/Lf3wFHfGjOIY4ZiWeTDLILokrW69lOGs0PcHdslorBLFvY5T4Kp0M8Euu3MMNTVUMDeWDe8VwAmMEGvJ0Q==",
+  "dgSpecHash": "rh3NdtgzZTFZ+LFfvZKtQHvBp5wBC+h0xv//A9/j+h823NxbitSBEkVp56Y1bK479J/eyG/l5WeWvL0clMujdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Denis\\Desktop\\.NET FrameWork Kursova\\DotNetFrameworkKursova\\WebServiceForDbOperations\\WebServiceForDbOperations.csproj",
+  "projectFilePath": "C:\\Users\\Denis\\Desktop\\project\\TaskManagerKursova\\WebServiceForDbOperations\\WebServiceForDbOperations.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Denis\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Denis\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

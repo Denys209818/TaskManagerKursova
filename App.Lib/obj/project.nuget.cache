@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Alq9eoaA7J6F/t009qiQj75mGgNeQtsz1wuUZgxKblFvwA5bEX4xTZEuI33UaNWHdGR1D+catqj5rQ1fyTNcXQ==",
+  "dgSpecHash": "F1vzbDjq19kXdHTX67kS/EX+bPR/gbXPNf94+SuETQ9mzeMWs8qg9GkHaGdItC9K0fN/O2A9I0DtIcRkm2Xc5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Denis\\Desktop\\.NET FrameWork Kursova\\DotNetFrameworkKursova\\App.Lib\\App.Lib.csproj",
+  "projectFilePath": "C:\\Users\\Denis\\Desktop\\project\\TaskManagerKursova\\App.Lib\\App.Lib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Denis\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8aOsmbPQFy+GbuM+sZl9Mtvz7985hqyMR9lcLbzPk8sA/t63YWg0iNm4JsJhHg9r7BX2TNjo9JUdmBqRvpEgaA==",
+  "dgSpecHash": "jMKkI1sI3wF65uuVst/Nzx3qUvdsR+dGO7gNun3rxHws4dL6Q4b5FelVl407ODsFUFy4v8W3gzmJs9NtOjitUA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Denis\\Desktop\\.NET FrameWork Kursova\\DotNetFrameworkKursova\\TaskManager\\TaskManagerUI.csproj",
+  "projectFilePath": "C:\\Users\\Denis\\Desktop\\project\\TaskManagerKursova\\TaskManager\\TaskManagerUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Denis\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
     "C:\\Users\\Denis\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
