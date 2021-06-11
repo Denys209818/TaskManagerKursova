@@ -15,13 +15,14 @@ namespace ChatServerCore
         static List<BoardCollection> coll = new List<BoardCollection>();
         static void Main()
         {
+            Console.WriteLine("Сервер запущено!");
             ChatServer();
         }
 
         private static void ChatServer()
         {
             
-            IPEndPoint endPoint = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 1245);
+            IPEndPoint endPoint = new IPEndPoint(IPAddress.Parse("91.238.103.109"), 1245);
             Socket socket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
 
             socket.Bind(endPoint);
