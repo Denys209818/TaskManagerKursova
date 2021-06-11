@@ -1,48 +1,96 @@
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\bin\Debug\netcoreapp3.1\WebServiceForDbOperations.exe
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\bin\Debug\netcoreapp3.1\WebServiceForDbOperations.deps.json
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\bin\Debug\netcoreapp3.1\WebServiceForDbOperations.runtimeconfig.json
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\bin\Debug\netcoreapp3.1\WebServiceForDbOperations.runtimeconfig.dev.json
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\bin\Debug\netcoreapp3.1\WebServiceForDbOperations.dll
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\bin\Debug\netcoreapp3.1\WebServiceForDbOperations.pdb
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\obj\Debug\netcoreapp3.1\WebServiceForDbOperations.csprojAssemblyReference.cache
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\obj\Debug\netcoreapp3.1\WebServiceForDbOperations.AssemblyInfoInputs.cache
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\obj\Debug\netcoreapp3.1\WebServiceForDbOperations.AssemblyInfo.cs
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\obj\Debug\netcoreapp3.1\WebServiceForDbOperations.csproj.CoreCompileInputs.cache
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\obj\Debug\netcoreapp3.1\WebServiceForDbOperations.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\obj\Debug\netcoreapp3.1\WebServiceForDbOperations.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\obj\Debug\netcoreapp3.1\staticwebassets\WebServiceForDbOperations.StaticWebAssets.Manifest.cache
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\obj\Debug\netcoreapp3.1\staticwebassets\WebServiceForDbOperations.StaticWebAssets.xml
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebServiceForDbOperations.styles.css
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\obj\Debug\netcoreapp3.1\WebServiceForDbOperations.RazorTargetAssemblyInfo.cache
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\obj\Debug\netcoreapp3.1\WebServiceForDbOperations.csproj.CopyComplete
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\obj\Debug\netcoreapp3.1\WebServiceForDbOperations.dll
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\obj\Debug\netcoreapp3.1\WebServiceForDbOperations.pdb
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\obj\Debug\netcoreapp3.1\WebServiceForDbOperations.genruntimeconfig.cache
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\bin\Debug\netcoreapp3.1\Humanizer.dll
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\bin\Debug\netcoreapp3.1\Npgsql.dll
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\bin\Debug\netcoreapp3.1\App.Lib.dll
-C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\WebServiceForDbOperations\bin\Debug\netcoreapp3.1\App.Lib.pdb
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/WebServiceForDbOperations.exe
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/WebServiceForDbOperations.deps.json
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/WebServiceForDbOperations.runtimeconfig.json
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/WebServiceForDbOperations.runtimeconfig.dev.json
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/WebServiceForDbOperations.dll
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/WebServiceForDbOperations.pdb
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/obj/Debug/netcoreapp3.1/WebServiceForDbOperations.csprojAssemblyReference.cache
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/obj/Debug/netcoreapp3.1/WebServiceForDbOperations.AssemblyInfoInputs.cache
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/obj/Debug/netcoreapp3.1/WebServiceForDbOperations.AssemblyInfo.cs
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/obj/Debug/netcoreapp3.1/WebServiceForDbOperations.csproj.CoreCompileInputs.cache
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/obj/Debug/netcoreapp3.1/WebServiceForDbOperations.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/obj/Debug/netcoreapp3.1/WebServiceForDbOperations.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/obj/Debug/netcoreapp3.1/staticwebassets/WebServiceForDbOperations.StaticWebAssets.Manifest.cache
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/obj/Debug/netcoreapp3.1/staticwebassets/WebServiceForDbOperations.StaticWebAssets.xml
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/obj/Debug/netcoreapp3.1/scopedcss/bundle/WebServiceForDbOperations.styles.css
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/obj/Debug/netcoreapp3.1/WebServiceForDbOperations.RazorTargetAssemblyInfo.cache
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/obj/Debug/netcoreapp3.1/WebServiceForDbOperations.csproj.CopyComplete
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/obj/Debug/netcoreapp3.1/WebServiceForDbOperations.dll
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/obj/Debug/netcoreapp3.1/WebServiceForDbOperations.pdb
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/obj/Debug/netcoreapp3.1/WebServiceForDbOperations.genruntimeconfig.cache
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Humanizer.dll
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Npgsql.dll
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/App.Lib.dll
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/App.Lib.pdb
+/var/www/TaskManagerKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/var/www/TaskManagerKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/appsettings.json
+/var/www/TaskManagerKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/var/www/TaskManagerKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/WebServiceForDbOperations
+/var/www/TaskManagerKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/WebServiceForDbOperations.deps.json
+/var/www/TaskManagerKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/WebServiceForDbOperations.runtimeconfig.json
+/var/www/TaskManagerKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/WebServiceForDbOperations.runtimeconfig.dev.json
+/var/www/TaskManagerKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/WebServiceForDbOperations.dll
+/var/www/TaskManagerKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/WebServiceForDbOperations.pdb
+/var/www/TaskManagerKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Humanizer.dll
+/var/www/TaskManagerKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/var/www/TaskManagerKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/var/www/TaskManagerKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/var/www/TaskManagerKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/var/www/TaskManagerKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/var/www/TaskManagerKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/var/www/TaskManagerKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/var/www/TaskManagerKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/var/www/TaskManagerKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/var/www/TaskManagerKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/var/www/TaskManagerKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/var/www/TaskManagerKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/var/www/TaskManagerKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/var/www/TaskManagerKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/var/www/TaskManagerKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/var/www/TaskManagerKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Npgsql.dll
+/var/www/TaskManagerKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/var/www/TaskManagerKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/var/www/TaskManagerKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/var/www/TaskManagerKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/var/www/TaskManagerKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/var/www/TaskManagerKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/var/www/TaskManagerKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/var/www/TaskManagerKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/App.Lib.dll
+/var/www/TaskManagerKursova/WebServiceForDbOperations/bin/Debug/netcoreapp3.1/App.Lib.pdb
+/var/www/TaskManagerKursova/WebServiceForDbOperations/obj/Debug/netcoreapp3.1/WebServiceForDbOperations.csprojAssemblyReference.cache
+/var/www/TaskManagerKursova/WebServiceForDbOperations/obj/Debug/netcoreapp3.1/WebServiceForDbOperations.AssemblyInfoInputs.cache
+/var/www/TaskManagerKursova/WebServiceForDbOperations/obj/Debug/netcoreapp3.1/WebServiceForDbOperations.AssemblyInfo.cs
+/var/www/TaskManagerKursova/WebServiceForDbOperations/obj/Debug/netcoreapp3.1/WebServiceForDbOperations.csproj.CoreCompileInputs.cache
+/var/www/TaskManagerKursova/WebServiceForDbOperations/obj/Debug/netcoreapp3.1/WebServiceForDbOperations.MvcApplicationPartsAssemblyInfo.cs
+/var/www/TaskManagerKursova/WebServiceForDbOperations/obj/Debug/netcoreapp3.1/WebServiceForDbOperations.MvcApplicationPartsAssemblyInfo.cache
+/var/www/TaskManagerKursova/WebServiceForDbOperations/obj/Debug/netcoreapp3.1/WebServiceForDbOperations.RazorTargetAssemblyInfo.cache
+/var/www/TaskManagerKursova/WebServiceForDbOperations/obj/Debug/netcoreapp3.1/WebServiceForDbOperations.csproj.CopyComplete
+/var/www/TaskManagerKursova/WebServiceForDbOperations/obj/Debug/netcoreapp3.1/staticwebassets/WebServiceForDbOperations.StaticWebAssets.Manifest.cache
+/var/www/TaskManagerKursova/WebServiceForDbOperations/obj/Debug/netcoreapp3.1/staticwebassets/WebServiceForDbOperations.StaticWebAssets.xml
+/var/www/TaskManagerKursova/WebServiceForDbOperations/obj/Debug/netcoreapp3.1/WebServiceForDbOperations.dll
+/var/www/TaskManagerKursova/WebServiceForDbOperations/obj/Debug/netcoreapp3.1/WebServiceForDbOperations.pdb
+/var/www/TaskManagerKursova/WebServiceForDbOperations/obj/Debug/netcoreapp3.1/WebServiceForDbOperations.genruntimeconfig.cache
