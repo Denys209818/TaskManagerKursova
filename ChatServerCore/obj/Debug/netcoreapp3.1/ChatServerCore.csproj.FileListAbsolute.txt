@@ -15,3 +15,20 @@ C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\ChatServerC
 C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\ChatServerCore\obj\Debug\netcoreapp3.1\ChatServerCore.dll
 C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\ChatServerCore\obj\Debug\netcoreapp3.1\ChatServerCore.pdb
 C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\ChatServerCore\obj\Debug\netcoreapp3.1\ChatServerCore.genruntimeconfig.cache
+C:\Users\Denis\Desktop\project\TaskManagerKursova\ChatServerCore\bin\Debug\netcoreapp3.1\ChatServerCore.exe
+C:\Users\Denis\Desktop\project\TaskManagerKursova\ChatServerCore\bin\Debug\netcoreapp3.1\ChatServerCore.deps.json
+C:\Users\Denis\Desktop\project\TaskManagerKursova\ChatServerCore\bin\Debug\netcoreapp3.1\ChatServerCore.runtimeconfig.json
+C:\Users\Denis\Desktop\project\TaskManagerKursova\ChatServerCore\bin\Debug\netcoreapp3.1\ChatServerCore.runtimeconfig.dev.json
+C:\Users\Denis\Desktop\project\TaskManagerKursova\ChatServerCore\bin\Debug\netcoreapp3.1\ChatServerCore.dll
+C:\Users\Denis\Desktop\project\TaskManagerKursova\ChatServerCore\bin\Debug\netcoreapp3.1\ChatServerCore.pdb
+C:\Users\Denis\Desktop\project\TaskManagerKursova\ChatServerCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Denis\Desktop\project\TaskManagerKursova\ChatServerCore\bin\Debug\netcoreapp3.1\App.Lib.dll
+C:\Users\Denis\Desktop\project\TaskManagerKursova\ChatServerCore\bin\Debug\netcoreapp3.1\App.Lib.pdb
+C:\Users\Denis\Desktop\project\TaskManagerKursova\ChatServerCore\obj\Debug\netcoreapp3.1\ChatServerCore.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\project\TaskManagerKursova\ChatServerCore\obj\Debug\netcoreapp3.1\ChatServerCore.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\project\TaskManagerKursova\ChatServerCore\obj\Debug\netcoreapp3.1\ChatServerCore.AssemblyInfo.cs
+C:\Users\Denis\Desktop\project\TaskManagerKursova\ChatServerCore\obj\Debug\netcoreapp3.1\ChatServerCore.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\project\TaskManagerKursova\ChatServerCore\obj\Debug\netcoreapp3.1\ChatServerCore.csproj.CopyComplete
+C:\Users\Denis\Desktop\project\TaskManagerKursova\ChatServerCore\obj\Debug\netcoreapp3.1\ChatServerCore.dll
+C:\Users\Denis\Desktop\project\TaskManagerKursova\ChatServerCore\obj\Debug\netcoreapp3.1\ChatServerCore.pdb
+C:\Users\Denis\Desktop\project\TaskManagerKursova\ChatServerCore\obj\Debug\netcoreapp3.1\ChatServerCore.genruntimeconfig.cache
