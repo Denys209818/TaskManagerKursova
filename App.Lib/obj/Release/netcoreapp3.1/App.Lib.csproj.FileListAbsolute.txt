@@ -1,0 +1,9 @@
+/var/www/TaskManagerKursova/App.Lib/bin/Release/netcoreapp3.1/App.Lib.deps.json
+/var/www/TaskManagerKursova/App.Lib/bin/Release/netcoreapp3.1/App.Lib.dll
+/var/www/TaskManagerKursova/App.Lib/bin/Release/netcoreapp3.1/App.Lib.pdb
+/var/www/TaskManagerKursova/App.Lib/obj/Release/netcoreapp3.1/App.Lib.csprojAssemblyReference.cache
+/var/www/TaskManagerKursova/App.Lib/obj/Release/netcoreapp3.1/App.Lib.AssemblyInfoInputs.cache
+/var/www/TaskManagerKursova/App.Lib/obj/Release/netcoreapp3.1/App.Lib.AssemblyInfo.cs
+/var/www/TaskManagerKursova/App.Lib/obj/Release/netcoreapp3.1/App.Lib.csproj.CoreCompileInputs.cache
+/var/www/TaskManagerKursova/App.Lib/obj/Release/netcoreapp3.1/App.Lib.dll
+/var/www/TaskManagerKursova/App.Lib/obj/Release/netcoreapp3.1/App.Lib.pdb

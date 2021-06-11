@@ -1,3 +1,23 @@
+<<<<<<< HEAD
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/App.Lib/bin/Debug/netcoreapp3.1/App.Lib.deps.json
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/App.Lib/bin/Debug/netcoreapp3.1/App.Lib.dll
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/App.Lib/bin/Debug/netcoreapp3.1/App.Lib.pdb
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/App.Lib/obj/Debug/netcoreapp3.1/App.Lib.AssemblyInfoInputs.cache
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/App.Lib/obj/Debug/netcoreapp3.1/App.Lib.AssemblyInfo.cs
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/App.Lib/obj/Debug/netcoreapp3.1/App.Lib.csproj.CoreCompileInputs.cache
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/App.Lib/obj/Debug/netcoreapp3.1/App.Lib.dll
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/App.Lib/obj/Debug/netcoreapp3.1/App.Lib.pdb
+C:/Users/Denis/Desktop/.NET FrameWork Kursova/DotNetFrameworkKursova/App.Lib/obj/Debug/netcoreapp3.1/App.Lib.csprojAssemblyReference.cache
+/var/www/TaskManagerKursova/App.Lib/bin/Debug/netcoreapp3.1/App.Lib.deps.json
+/var/www/TaskManagerKursova/App.Lib/bin/Debug/netcoreapp3.1/App.Lib.dll
+/var/www/TaskManagerKursova/App.Lib/bin/Debug/netcoreapp3.1/App.Lib.pdb
+/var/www/TaskManagerKursova/App.Lib/obj/Debug/netcoreapp3.1/App.Lib.csprojAssemblyReference.cache
+/var/www/TaskManagerKursova/App.Lib/obj/Debug/netcoreapp3.1/App.Lib.AssemblyInfoInputs.cache
+/var/www/TaskManagerKursova/App.Lib/obj/Debug/netcoreapp3.1/App.Lib.AssemblyInfo.cs
+/var/www/TaskManagerKursova/App.Lib/obj/Debug/netcoreapp3.1/App.Lib.csproj.CoreCompileInputs.cache
+/var/www/TaskManagerKursova/App.Lib/obj/Debug/netcoreapp3.1/App.Lib.dll
+/var/www/TaskManagerKursova/App.Lib/obj/Debug/netcoreapp3.1/App.Lib.pdb
+=======
 C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\App.Lib\bin\Debug\netcoreapp3.1\App.Lib.deps.json
 C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\App.Lib\bin\Debug\netcoreapp3.1\App.Lib.dll
 C:\Users\Denis\Desktop\.NET FrameWork Kursova\DotNetFrameworkKursova\App.Lib\bin\Debug\netcoreapp3.1\App.Lib.pdb
@@ -16,3 +36,4 @@ C:\Users\Denis\Desktop\project\TaskManagerKursova\App.Lib\obj\Debug\netcoreapp3.
 C:\Users\Denis\Desktop\project\TaskManagerKursova\App.Lib\obj\Debug\netcoreapp3.1\App.Lib.csproj.CoreCompileInputs.cache
 C:\Users\Denis\Desktop\project\TaskManagerKursova\App.Lib\obj\Debug\netcoreapp3.1\App.Lib.dll
 C:\Users\Denis\Desktop\project\TaskManagerKursova\App.Lib\obj\Debug\netcoreapp3.1\App.Lib.pdb
+>>>>>>> 90ce20bf953cbd978339655e2fc5bdcd121f202c
