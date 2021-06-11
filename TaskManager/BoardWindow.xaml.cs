@@ -21,6 +21,7 @@ using TaskManagerUI.Models;
 using App.Lib.Services;
 using TaskManagerUI.Services;
 using Newtonsoft.Json;
+using System.Diagnostics;
 
 namespace TaskManagerUI
 {
@@ -52,11 +53,24 @@ namespace TaskManagerUI
             (App.Current.Resources["dataTasks"] as ObjectDataProvider).Refresh();
             InitializeComponent();
 
+            //string hostName = System.Net.Dns.GetHostName();
+
+            //var ipAdress = Dns.GetHostEntry(hostName).AddressList;
+
+            //foreach (var item in ipAdress) 
+            //{
+            //    Debug.WriteLine(item.ToString());
+            //}
+
+
             IPEndPoint endPoint = new IPEndPoint(IPAddress.Parse("127.0.0.1"), port);
+            //TcpClient client = new TcpClient(endPoint);
+            //client.Connect(IPAddress.Parse("91.238.103.109"), 1245);
+
             socket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
 
-            socket.Bind(endPoint);
-            socket.Connect(new IPEndPoint(IPAddress.Parse("127.0.0.1"), 1245));
+            //socket.Bind(endPoint);
+            socket.Connect(new IPEndPoint(IPAddress.Parse("91.238.103.109"), 1245));
             socket.Send(Encoding.UTF8.GetBytes(model.Id.ToString()));
         }
         private void Window_Loaded(object sender, RoutedEventArgs e)

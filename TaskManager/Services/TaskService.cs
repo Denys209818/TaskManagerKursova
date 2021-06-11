@@ -75,7 +75,7 @@ namespace TaskManagerUI.Services
 
         public static void AddCars(Apps.Lib.Models.TaskModel model, BoardModel board) 
         {
-            WebRequest request = WebRequest.CreateHttp("https://localhost:5001/api/task/add/" + board.BoardKey);
+            WebRequest request = WebRequest.CreateHttp(MainWindow.WebServiceUrl + "api/task/add/" + board.BoardKey);
 
             request.Method = "POST";
             request.ContentType = "application/json";
